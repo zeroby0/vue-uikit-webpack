@@ -1,6 +1,8 @@
 # vue-uikit-webpack-demo
 
-> A Vue.js project
+> Demo for the tutorial [here](https://aravindvoggu.in/using-uikit-with-vuejs-14e16d124f6c)
+
+Use UIKit with VueJS.
 
 ## Build Setup
 
