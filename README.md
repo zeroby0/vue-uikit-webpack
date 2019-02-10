@@ -2,7 +2,7 @@
 There is an **updated** version of this available here: [zeroby0/vue-uikit-webpack-vuecli3](https://github.com/zeroby0/vue-uikit-webpack-vuecli3). And it's much better and easier.
 
 --------------
-# vue-uikit-webpack-demo
+## vue-uikit-webpack-demo
 
 > Demo for the tutorial [here](https://aravindvoggu.in/using-uikit-with-vuejs-14e16d124f6c)
 
